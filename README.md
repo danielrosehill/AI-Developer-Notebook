@@ -1,5 +1,9 @@
 # AI Developer Notebook
 
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Project-8A2BE2?logo=anthropic)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A toolkit for managing Claude Code configuration snippets and reference documentation across your development environment.
 
 ## Overview
